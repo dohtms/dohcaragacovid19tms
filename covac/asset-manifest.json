@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covac/static/css/main.6ef29bf8.css",
+    "main.js": "/covac/static/js/main.6411d531.js",
+    "static/js/787.22edae46.chunk.js": "/covac/static/js/787.22edae46.chunk.js",
+    "static/media/corona.svg": "/covac/static/media/corona.6bd7b9c938e0906126c70ef6d8380420.svg",
+    "static/media/login.svg": "/covac/static/media/login.0335ef5bfd8be682f5f4dacdd6626521.svg",
+    "static/media/female.svg": "/covac/static/media/female.619c23c71909676f14e877ca671ce5b0.svg",
+    "static/media/male.svg": "/covac/static/media/male.0acf0e0dbb29310a695c3051046baaf0.svg",
+    "static/media/static.svg": "/covac/static/media/static.cd783aed5a1b6262624b80a7c67064ac.svg",
+    "static/media/temp.png": "/covac/static/media/temp.1d253c250fcb816a16d0.png",
+    "static/media/logo.svg": "/covac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/covac/index.html",
+    "main.6ef29bf8.css.map": "/covac/static/css/main.6ef29bf8.css.map",
+    "main.6411d531.js.map": "/covac/static/js/main.6411d531.js.map",
+    "787.22edae46.chunk.js.map": "/covac/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef29bf8.css",
+    "static/js/main.6411d531.js"
+  ]
+}
